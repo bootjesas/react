@@ -7,7 +7,6 @@ export default function Home() {
     return(<Hello name= {name} key={name} />)
     });
 
-  
   return (
    <div>
 
